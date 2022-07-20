@@ -1,0 +1,27 @@
+body {
+    background-color: #F5F5F5;
+}
+
+footer {
+    text-align: center;
+    position: absolute;
+    bottom: 20px;
+    left: 45%;
+}
+
+main {
+    text-align: center;
+    margin-top: 30px;
+}
+
+h1,
+a {
+    color: #CF3938;
+}
+
+.img-profil {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
